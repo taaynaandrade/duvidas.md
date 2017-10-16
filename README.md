@@ -8,3 +8,8 @@
 * git status
 * git rm
 * git log
+* git branch
+* git checkout
+* git pull
+* git push
+* git merge
