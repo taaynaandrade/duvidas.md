@@ -122,6 +122,74 @@
 
 * Adicionar o atributo "title" ao elemento "abbr";
 
-* 
+* Adicionar o atributo "datetime" ao elemento "time";
 
-## 2. []
+* Especifique a linguagem do código com o atributo "class" prefixado com "language-";
+
+* Mantenha o elemento "kbd"o mais simples possível;
+
+* Evite ao máximo o elemento "spam";
+
+* Quebrar linha após o elemento "br";
+
+* Não utilize o elemento "br" apenas para apresentação;
+
+### Edições
+
+* Não passe os elementos "ins" e "del" sobre outros elementos;
+
+### Conteúdo incorporado
+
+* Fornecer o elemento "img" para o elemento "picture";
+
+* Se necessário, adicionar o atributo "alt" para o elemento "img";
+
+* Se possível, atributo "alt" vazio;
+
+* Se possível, omitir o atributo "alt";
+
+* Elemento "iframe" vazio;
+
+* Marcação do conteúdo do elemento "map";
+
+* Fornecer conteúdo de retorno para os elementos "audio" ou "video";
+
+### Dados tabulados (td)
+
+* Escreva uma célula por linha;
+
+* Usar o elemento "th" para células de cabeçalho;
+
+### Formas
+
+* Se possível, omitir o atributo "for";
+
+* Usar o atributo "type" apropriadamente para o elemento "input";
+
+* Adicionar o atributo "value" a " input type="submit" ";
+
+* Adicionar o atributo "title" ao elemento "input" quando tiver o atributo "pattern";
+
+* Não usar o atributo "placeholder" para marcação;
+
+* Escrever um elemento "option" por linha;
+
+* Adicionar o atributo "max" ao elemento "progress";
+
+* Adicionar os atributos "min" e "max" ao elemento "meter";
+
+* Colocar o elemento "legend" primeiro quando estiver contido no elemento "fieldset";
+
+### Scripting
+
+* Omitir o atributo "type" para JavaScript;
+
+* Não comentar conteúdo do elemento "script";
+
+* Não utilizar script-injected no elemento "script";
+
+### Other
+
+* Identação de forma consistente;
+
+* Usar caminho absoluto para links internos;
