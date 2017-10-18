@@ -114,7 +114,7 @@
 
 * Limpar/não utilizar texto link (ex.: Click here);
 
-* Não utilize o elemento <em> para warning or caution;
+* Não utilize o elemento "em" para warning or caution;
 
 * Evite ao máximo os elementos "s", "i", "b" e "u";
 
