@@ -1,17 +1,23 @@
-Specify MIME type of minor linked resources;
+1. HTML
 
-Don’t use XML Declaration;
+* Specify MIME type of minor linked resources;
 
-Don’t use character references as much as possible;
+* Don’t use XML Declaration;
 
-Escape &, <, >, ", and ' with named character references;
+* Don’t use character references as much as possible;
 
-Don’t mix data-* , Microdata, and RDFa Lite attributes with common attributes;
+* Escape &, <, >, ", and ' with named character references;
 
-Don’t use legacy character encoding format;
+* Don’t mix data-* , Microdata, and RDFa Lite attributes with common attributes;
 
-Markup ruby element verbosely;
+* Don’t use legacy character encoding format;
 
-Wrap form control with label element;
+* Markup ruby element verbosely;
 
-Don’t use protocol-relative URL for external resources
+* Wrap form control with label element;
+
+* Don’t use protocol-relative URL for external resources
+
+2. CSS
+
+* Build Proficient Selectors

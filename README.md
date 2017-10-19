@@ -16,7 +16,7 @@
 
 # Folhas de Estilo
 
-## 1. [HTML Best Practises - github](https://github.com/hail2u/html-best-practices)
+## 1. [HTML Best Practises - Writing](https://github.com/hail2u/html-best-practices)
 
 ### Geral
 
@@ -193,3 +193,82 @@
 * Identação de forma consistente;
 
 * Usar caminho absoluto para links internos;
+
+## 2. [CSS Best Practises - Writing](https://learn.shayhowe.com/html-css/writing-your-best-code/)
+
+* Organizar o código com comentários;
+
+* Escrever as propriedades contidas nas "{}" em várias linhas e espaços;
+
+* Usar os nomes adequados para cada classe;
+
+* Usar classes específicas quando necessário;
+
+* Usar propriedades e valores de forma abreviada;
+
+* Usar valores de cor hexadecimais de forma abreviada;
+
+* Remover a unidade do dado quando este tiver valor 0;
+
+* Agrupar e alinhar os prefixos;
+
+* Modularizar estilos para reutilizar;
+
+## 3. [Java Best Practises - Writing](https://github.com/felixge/node-style-guide)
+
+### Formatação
+
+#### [Guia de estilo](https://github.com/felixge/node-style-guide/blob/master/.editorconfig)
+Use para ter identação, novas linhas e comportamento de espaço em branco configurado automaticamente.
+
+* 2 espaços para identação;
+
+* Use novas linhas de estilo UNIX ( \n ) e um caractere de nova linha como o último caractere de um arquivo;
+
+* Nenhum espaço em branco à direita;
+
+* Usar ponto e vírgula;
+
+* Limite suas linhas para 80 caracteres;
+
+* Use citações simples com aspas simples (se não estiver escrevendo JSON);
+
+* Chaves devem ser abertas na mesma linha;
+
+* Declare uma variável para cada "var";
+
+### Convenção de nomeação
+
+* Usar lowerCamelCase para variáveis, propriedades e nomes de funções;
+
+* Usar UpperCamelCase para nomes de classe;
+
+* Usar UPPERCASE para constantes;
+
+### Variáveis
+
+* Use vírgulas à direita e coloque declarações curtas em uma única linha;
+
+### Condicionais
+
+* Usar os operadores === ;
+
+* Usar o operador ternário de várias linhas;
+
+* Usar condições descritivas;
+
+### Funções
+
+* Escreva funções pequenas;
+
+* Retornar o valor da função o mais cedo possível;
+
+* Nomeie os fechamentos das funções;
+
+* Não aninhe os fechamentos;
+
+* Para encadear métodos é preciso utilizar um por linha e recuar;
+
+### Comentários
+
+* Usar barras para comentários de linha única e de muitas linhas;
